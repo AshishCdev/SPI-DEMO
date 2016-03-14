@@ -1,0 +1,9 @@
+.\ssi_main.o: SSI_main.c
+.\ssi_main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ssi_main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\ssi_main.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\ssi_main.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\ssi_main.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ssi_main.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ssi_main.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\ssi_main.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
